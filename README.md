@@ -4,7 +4,7 @@
 
 The C++ Online Shopping System project aims to create a simple and practical platform for online shopping. Useres can browse products, add items to their shopping cart, place orders, manage their accounts, request delivery, add a gift message, read data from a file, save it and allow them to register, providing a hands-on experience in building an e-commerce platform. Me and three of my team mates have worked and contributed equally on this project.
 
-<h2> Functions I have worked on explained </h2>
+<h2> Functions I Have Worked On Explained </h2>
 
 - SignUp() Function
   This function collects coustomer information for signing up. It uses a 'CustomerInfo' struct to store details like first name, last name, se, birth year, birth month, email, and phone number. The function error handling loops to manage incorrect inputs. For example, when the function prompts the user to input the sex, if the user input a letter is not ('F' for female or 'M' for male), a message will pop up asking the user to input a correct letter. It then asks for the birth year, ensuring it is a number and that the user is eighteen years or older. If the user is under eighteen, they are prompted to ask someone older to sign up. The user is then asked for the birth month, ensuring it is between 1 and 12. Then, the user provides their email and phone nuber with the right input validation.
