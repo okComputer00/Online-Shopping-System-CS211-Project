@@ -14,3 +14,13 @@ The C++ Online Shopping System project aims to create a simple and practical pla
 
 - giftMessage() function
   This function allows users to input a personalized gift message. The function displays a prompt asking the user to enter their gift message. 'cin.ignore()' is used to clear any unwanted charcters from the input buffer before reading the message. Then, it uses 'getline(cin, message)' to read the entire line of text entered by the user, including spaces, and stores it in the message variable of type 'string'.
+
+<h2> Team members <h2>
+
+- Ghadeer Alalawi
+
+- Sara Alhajri
+
+- Rana Saeed
+
+- Jori Balharith
